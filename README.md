@@ -7,7 +7,7 @@ So for the QCTF 2022 competition, I wrote plugin a instead.
 
 Clone this repository into the CTFd/plugins folder.
 
-Modify the following classmethod with your own evaluator, such as casting to other types, applying crpytography, etc.
+Modify the following classmethod with your own evaluator, such as casting to other types, applying cryptography, etc.
 
 ```python
 @classmethod
